@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Pratica-angular';
+
+  name: string = 'Jhon';
 }
